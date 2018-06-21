@@ -1,0 +1,12 @@
+Git commands:
+
+pull down a new repository = 
+
+git clone ssh://...
+git add file
+git command 
+git commit ~m "update message"
+git push
+
+other commands: 
+ git diff filename

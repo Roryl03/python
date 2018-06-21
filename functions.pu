@@ -1,0 +1,7 @@
+def myFunction():
+	print("Hello my name is a function.")
+
+def thisIsMySecondFunction():
+	print("Another function")
+thisIsMySecondFunction()
+myFunction()

@@ -1,0 +1,6 @@
+linux commands:
+
+ls = list of contents 
+cd = go into a folder 
+mkdir = make a new folder
+python file.py = executes file.py
